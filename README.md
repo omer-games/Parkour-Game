@@ -43,10 +43,6 @@
 - Ctrl: Sprint
 - Mouse: Look around
 
-## Note
-
-This game is designed to provide a thrilling 3D parkour experience. If you encounter any issues or have suggestions, feel free to open an issue on the [GitHub repository](https://github.com/your-username/3DParkourGame).
-
 ## Author
 
 omer-games
