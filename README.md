@@ -7,7 +7,7 @@
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/your-username/3DParkourGame.git
+    git clone Would_be_updated_later
     ```
 
 2. **Navigate to the Game Directory:**
