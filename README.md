@@ -7,7 +7,7 @@
 1. **Clone the Repository:**
 
     ```bash
-    git clone Would_be_updated_later
+    git clone https://github.com/omer-games/Parkour-Game
     ```
 
 2. **Navigate to the Game Directory:**
