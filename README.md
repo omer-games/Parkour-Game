@@ -45,4 +45,4 @@
 
 ## Author
 
-omer-games
+Omer-Games
