@@ -34,7 +34,7 @@
 
 - Operating System: Windows (64-bit)
 - Graphics Card: DirectX 11 compatible
-- RAM: 8GB or higher
+- RAM: 4GB or higher
 
 ## Controls
 
